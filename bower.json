@@ -1,0 +1,16 @@
+{
+  "name": "umbra",
+  "version": "0.0.0",
+  "homepage": "project_url",
+  "authors": [
+    "Eric Larson"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "bootstrap": "~3.2.0",
+    "masonry": "~3.1.0",
+    "imagesloaded": "~3.1.0"
+  }
+}
